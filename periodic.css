@@ -1,0 +1,53 @@
+nav {
+    background-color: yellow;
+    height: 90px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+#table1 {
+    width: 100%;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.red {
+    background-color: tomato;
+}
+
+.violet {
+    background-color: violet;
+}
+
+.blue {
+    background-color: skyblue;
+}
+
+.yellow {
+    background-color: rgb(238, 238, 139);
+}
+
+.green {
+    background-color: rgb(164, 250, 164);
+}
+
+.brown {
+    background-color: rgb(161, 45, 45);
+}
+
+.wheat {
+    background-color: wheat;
+}
+
+.purple {
+    background-color: rgb(197, 100, 197);
+}
+
+.coloring {
+    background-color: antiquewhite;
+}
+
+#table2 {}
